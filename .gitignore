@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+# Ultralytics outputs
+runs/
+# Data and weights (large)
+data/datasets/
+weights/
+*.pt
+*.onnx
+*.engine
+*.pth
+# OS junk
+.DS_Store
+Thumbs.db

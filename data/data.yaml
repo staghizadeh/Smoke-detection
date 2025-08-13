@@ -1,0 +1,15 @@
+# Edit paths to your dataset here.
+# For **smoke-only**:
+# nc: 1
+# names: ['smoke']
+# For smoke + fire:
+# nc: 2
+# names: ['smoke','fire']
+
+path: data/datasets/roboflow_smoke   # root dataset folder (contains images/ and labels/)
+train: images/train
+val: images/valid     # some datasets use 'images/val'
+test: images/test     # optional
+
+nc: 1
+names: ['smoke']

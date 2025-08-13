@@ -1,0 +1,9 @@
+ultralytics>=8.2.0
+roboflow>=1.1.19
+kaggle>=1.6.17
+opencv-python>=4.9.0.80
+matplotlib>=3.8.0
+pandas>=2.2.0
+PyYAML>=6.0.1
+tqdm>=4.66.0
+lxml>=5.2.1
