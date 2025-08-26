@@ -1,6 +1,6 @@
-# Smoke Detection with YOLO — GitHub Starter
+# Smoke Detection with YOLO
 
-End-to-end, **GitHub-ready** project for training and testing a **YOLOv8** model to detect **smoke** (optionally `fire`).  
+End-to-end, project for training and testing a YOLOv8 model to detect **smoke** (optionally `fire`).  
 Includes:
 - Public dataset access (Roboflow **Wildfire Smoke**, Kaggle sets, DFS, D-Fire, Boreal).
 - Ready-to-run **Jupyter notebooks** for download → train → evaluate/infer.
